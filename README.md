@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and machine learning
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: moyadamacline@gmail.com,contact:0799030405
+- 📫 How to reach me email: deemoya19@gmail.com,contact:254799030405
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: 
 Dive into the world of geospatial data formats! From Shapefiles to GeoJSON and KML, GIS coding offers a variety of ways to represent and manipulate geographic information. Each format has its own unique flair—perfect for different applications!
